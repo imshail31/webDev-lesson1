@@ -1,0 +1,32 @@
+.site-header {
+    background-color: #1bbc9b;
+    color: #ecfdf9;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    box-shadow: #034638 5px 5px 5px;
+}
+
+.site-header-content {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.join-link {
+    color: #ecfdf9;
+}
+
+body {
+    margin: 0;
+}
